@@ -1,0 +1,10 @@
+body{
+   display: flex;
+   margin: 0 ;
+   justify-content: center;
+
+}
+
+.botton:hover{
+   background:linear-gradient(hsl(252, 100%, 67%),hsl(241, 81%, 54%))
+}
